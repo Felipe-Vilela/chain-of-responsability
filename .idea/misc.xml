@@ -12,6 +12,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ValidacaoFormulario/pom.xml" />
+        <option value="$PROJECT_DIR$/AprovarDespesas/pom.xml" />
       </list>
     </option>
   </component>
